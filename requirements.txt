@@ -1,0 +1,15 @@
+Django==5.0
+djangorestframework_simplejwt==5.5.0
+stripe==11.6.0
+django
+gunicorn
+whitenoise
+psycopg2
+djangorestframework
+django-filter
+djangorestframework_simplejwt
+stripe
+requests  
+python-dotenv  
+dj-database-url 
+Pillow
